@@ -52,7 +52,7 @@
 **2. Выполните команду:**
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/evansvl/vless-shopbot/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/Iaroslav-Palekhov/vless-shopbot/main/install.sh | sudo bash
 ```
 
 **Если вы обновляли бота, то иснтрукции ниже не появятся!**
@@ -155,16 +155,6 @@ docker-compose up -d
 ```bash
 curl -sSL https://raw.githubusercontent.com/evansvl/vless-shopbot/main/install.sh | sudo bash
 ```
-
-## 🙌 Баги и предложения
-
-Если вы нашли баг, или у вас есть предложение, то создавайте "Issue" или присылайте Pull Request'ы.
-
-## 💎 Поддержать разработку
-
-**СБП/Карта РФ:** https://yookassa.ru/my/i/aJRiTyq5D3VB/l
-
-**CryptoBot:** https://t.me/send?start=IVftnggXmRv8
 
 **TON:** `UQAtdMEig3Wl_D3FNx4RU3RhxnoJI3IizGxrrNj3O8Q-fDpK`
 
